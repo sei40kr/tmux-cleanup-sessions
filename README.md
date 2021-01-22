@@ -1,0 +1,1 @@
+# tmux-cleanup-unnamed-sessions
